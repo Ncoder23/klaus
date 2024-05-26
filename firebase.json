@@ -1,0 +1,17 @@
+{
+  "hosting": [
+    {
+      "site": "klaus-api",
+      "public": "public",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+      "rewrites": [
+        {
+          "source": "**",
+          "run": {
+            "serviceId": "klaus"
+          }
+        }
+      ]
+    }
+  ]
+}

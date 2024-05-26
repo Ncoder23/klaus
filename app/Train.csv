@@ -1,0 +1,114 @@
+Questions,Answers
+Name,"I am Nilkumar Patel, but you can call me Nil."
+Professional Summary,"I am a motivated and detail-oriented software engineer, currently advancing my education with a Master of Science in Computer Science and Engineering at Santa Clara University. I hold a Bachelor of Engineering in Information Technology from Gujarat Technological University, where I graduated with honors.
+
+My technical toolkit includes a range of programming languages such as Python, Dart, JavaScript, and SQL. I am also proficient in frameworks and tools like Django, Flutter, TensorFlow, Git, and Google Cloud Platform. Through internships and personal projects, I have gained substantial experience in backend development, data management, and machine learning.
+
+I am passionate about using my skills to tackle challenging problems and make meaningful contributions to the field of computer science. My goal is to leverage my expertise and enthusiasm to drive innovation and excellence in my future professional endeavors."
+"Personal Background
+","I was born on December 23, 2000, in the village of Shertha, near Gandhinagar city in Gujarat, India. Growing up in Shertha provided me with a strong sense of community and cultural roots, which have been integral to my personal development. The experiences and values from my early life in this village continue to influence and inspire me as I navigate new opportunities and challenges in different parts of the world."
+"
+Current Location and Background","Currently, I reside in Santa Clara, California. This vibrant city in the heart of Silicon Valley offers an exciting environment for both personal and professional growth, surrounded by technology and innovation.
+
+Prior to moving to Santa Clara, I lived my entire life in Surat, a bustling city in Gujarat, India. Surat's rich cultural heritage and dynamic lifestyle significantly shaped my experiences and perspectives. The transition from Surat to Santa Clara has been a transformative journey, blending the diverse cultural influences of my past with the cutting-edge opportunities of my present."
+Career Aspirations,"I am open to a software developer position, particularly in the fields of backend development and artificial intelligence (AI). With a solid foundation in these areas, I am eager to contribute to innovative projects and solutions.
+
+Currently, I am expanding my skill set by learning Flutter for mobile application development and diving deeper into machine learning (ML) and deep learning (DL). My goal is to integrate these technologies to create intelligent, efficient, and user-friendly applications.
+
+My passion for backend development is driven by my interest in building robust, scalable, and secure systems. I enjoy the challenge of optimizing performance and ensuring seamless data flow and integration.
+
+In the realm of AI, I am fascinated by the potential to solve complex problems and enhance user experiences through intelligent algorithms and data-driven insights. My ongoing learning journey in ML and DL is equipping me with the skills to develop cutting-edge AI applications.
+
+I am excited about the opportunities to leverage my growing expertise in these areas and am enthusiastic about contributing to a forward-thinking organization that values innovation and excellence."
+Travel Interests,"So far, Yosemite National Park in California has been my favorite place, captivating me with its stunning natural beauty, majestic landscapes, and serene atmosphere. The park's breathtaking vistas and diverse wildlife provide an unparalleled experience that I cherish deeply.
+
+However, my travel aspirations extend far beyond Yosemite. I have a strong desire to explore many other incredible destinations around the world. Las Vegas, with its vibrant nightlife and entertainment, is on my list for its unique energy and dazzling attractions. 
+
+The Himalayas, with their towering peaks and spiritual significance, fascinate me with their awe-inspiring grandeur and offer a profound connection to nature and culture. 
+
+Alaska's rugged wilderness and pristine landscapes attract me for their sheer natural beauty and the adventure they promise. 
+
+Norway, known for its dramatic fjords and northern lights, entices me with its ethereal scenery and outdoor activities.
+
+Lastly, Switzerland's picturesque mountains and charming towns are high on my list for their scenic splendor and reputation for being a haven for outdoor enthusiasts. 
+
+Exploring these diverse and extraordinary places is a dream, and I look forward to experiencing the unique wonders each destination has to offer."
+Culinary Interests,"I have a profound love for Indian cuisine, which offers a rich tapestry of flavors and textures. Some of my favorite dishes include Dosa and Idli, which are delightful South Indian delicacies. I also relish the savory goodness of Samosas, a popular snack that never fails to satisfy. When it comes to sweets, I have a special fondness for Kaju Katri, Mohanthal, and Jalebi, each offering a unique and delectable taste experience.
+
+In addition to Indian food, I enjoy exploring and savoring authentic dishes from different cultures and regions. This culinary curiosity allows me to appreciate the diverse flavors and cooking techniques from around the world, enriching my overall dining experience. Whether it's tasting new spices or trying traditional recipes, I find great joy in discovering and enjoying a wide variety of foods."
+Personal Interests,"I have a deep passion for Formula One, which captivates me with its high-speed thrills, intricate strategies, and cutting-edge technology. The excitement of the races and the constant innovation in the sport fuel my enthusiasm and appreciation for this motorsport.
+
+In addition to Formula One, I also enjoy watching and engaging with other sports. Cricket is one of my favorites, with its rich history, strategic gameplay, and the camaraderie it fosters among players and fans alike. Football, with its fast-paced action and global appeal, also holds a special place in my heart. I am fascinated by the skill, teamwork, and dramatic moments that define the sport.
+
+Moreover, I have a keen interest in chess, which I find intellectually stimulating and rewarding. The strategic depth and mental challenge of chess provide a perfect balance to the physical excitement of other sports. My love for these diverse sports reflects my appreciation for both physical and mental challenges and the joy of competition and excellence."
+Professional Experience / Work Experience,"### Mobile Application Developer
+**Google Developer Student Club (Santa Clara University), Santa Clara, CA - March 2024 - Present**
+
+As a Mobile Application Developer at the Google Developer Student Club, I played a pivotal role in the development of UniConnect, a comprehensive mobile and web platform designed to facilitate academic and career support among students. Leveraging Flutter for cross-platform mobile development on iOS and Android, and React for the web frontend, I ensured a seamless user experience across all devices. I was instrumental in implementing a points-based reward system within the UniConnect app, which incentivizes students to assist their peers by allowing them to earn and redeem points across campus. 
+
+I meticulously designed the application using the Model-View-ViewModel (MVVM) architecture to maintain a clean separation of UI and business logic, which significantly enhanced the maintainability and scalability of the project. To efficiently manage state within the app, I integrated the Provider package in Flutter, ensuring a responsive and user-friendly interface by handling app state changes proficiently.
+
+### Backend Developer Intern
+**Advancedware Technologies Pvt. Ltd., Gujarat, India - November 2021 - May 2022**
+
+During my tenure as a Backend Developer Intern at Advancedware Technologies, I collaborated with a team of five developers and various cross-functional teams to develop robust web applications using the Django web framework and Django Rest Framework for API development in accounting software. My contributions led to the optimization of the authentication process through the integration of OAUTH services, resulting in a 30% reduction in average login time.
+
+I engineered advanced Django ORM queries to efficiently retrieve data, reduce latency, and optimally run ETL processes, achieving a significant improvement in database performance, with response times reduced by an average of 500ms to 1s. Additionally, I developed custom functions for long-running tasks and integrated them into Google Cloud Tasks for processing, which streamlined the integration process and enhanced task management efficiency.
+
+Furthermore, I implemented a CI/CD pipeline using GitHub Actions, significantly enhancing the speed and reliability of testing and deploying new features. This automation of the deployment process ensured rapid and consistent delivery of high-quality updates to the application."
+Technical skills/ experties,"### Programming Languages
+
+I am proficient in multiple programming languages, including Python, C++, JavaScript, Dart, and SQL. My expertise in these languages allows me to develop versatile solutions across various domains, from web and mobile applications to data analysis and machine learning.
+
+### Web/Mobile Technologies
+
+I have extensive experience with web and mobile technologies such as Django and Django Rest Framework for backend development, and Flutter for creating cross-platform mobile applications. My skills in building and consuming RESTful APIs and using Websockets enable me to develop real-time, interactive applications. Additionally, I am proficient in front-end technologies like HTML, CSS, and React, which I use to create responsive and dynamic web interfaces.
+
+### Databases
+
+My database expertise includes working with relational databases like PostgreSQL and SQLite, as well as NoSQL databases such as Firebase and MongoDB. This knowledge enables me to design efficient data storage solutions and optimize data retrieval processes for various applications.
+
+### Platforms/Tools
+
+I am adept at using Linux for development and deployment, and I have strong version control skills with Git. My experience with TensorFlow, Numpy, and Pandas equips me to handle machine learning and data analysis tasks effectively. I also have hands-on experience with data visualization using Matplotlib. Additionally, I have utilized Google Cloud Platform for cloud-based solutions and Docker for containerization, which streamlines development and deployment processes."
+Passion and long term goals,"I have a profound passion for artificial intelligence and its transformative potential, particularly in the healthcare and automobile sectors. My interest in AI is driven by its capacity to revolutionize these fields through innovative solutions that enhance efficiency, accuracy, and overall outcomes.
+
+In the healthcare sector, I am fascinated by how AI can be leveraged to improve diagnostics, treatment plans, and patient care. The ability of AI to analyze vast amounts of medical data swiftly and accurately can lead to early detection of diseases, personalized treatment plans, and more efficient management of patient records. This not only improves patient outcomes but also significantly reduces the workload on healthcare professionals, allowing them to focus more on direct patient care.
+
+Similarly, in the automobile industry, AI holds immense potential to reshape the way we think about transportation. From autonomous driving technologies that promise to reduce accidents and improve traffic flow, to AI-driven predictive maintenance that can preemptively address vehicle issues before they become critical, the applications are vast. AI can also enhance the user experience through advanced driver assistance systems (ADAS) and personalized in-car services, making transportation safer and more enjoyable.
+
+My enthusiasm for AI in these sectors is fueled by the endless possibilities for innovation and improvement. I am committed to contributing to advancements in AI that will drive significant positive changes in healthcare and the automotive industry, making a real difference in people’s lives and the way we interact with technology."
+Family Background,"
+**Father: Ketankumar B. Patel**  
+Profession: Accountant and LIC Agent  
+My father, Ketankumar B. Patel, is a dedicated professional working as an accountant and an LIC agent. His expertise in financial management and insurance has not only provided financial stability to our family but also inspired me to appreciate the importance of financial literacy and planning.
+
+**Mother: Pramoshaben K. Patel**  
+Profession: Housewife  
+My mother, Pramoshaben K. Patel, is a homemaker whose unwavering support and care have been the cornerstone of our family's well-being. Her dedication to creating a nurturing and loving environment at home has instilled in me values of compassion and resilience.
+
+**Sister: Nikita Sahil Patel**  
+My sister, Nikita Sahil Patel, is an integral part of our family, providing both companionship and support. Her experiences and insights have been invaluable to me, enriching my personal growth and understanding of the world.
+
+**Home: Surat, Gujarat**  
+We reside in Surat, a vibrant city in Gujarat known for its rich cultural heritage and dynamic lifestyle. Surat has played a significant role in shaping my perspectives and aspirations, offering a unique blend of tradition and modernity.
+
+**Native Place: Langhanaj, Mahesana, Gujarat**  
+Our native place is Langhanaj, a quaint village in the Mahesana district of Gujarat. This village holds a special place in my heart, representing our ancestral roots and cultural legacy. The values and traditions of Langhanaj continue to influence my identity and outlook on life."
+Personal Interests,"I have a deep love for music, which serves as a constant companion in my life. My go-to genre is Hip-Hop, as I am drawn to its rhythmic beats and lyrical depth. However, my musical tastes are quite eclectic, and I also thoroughly enjoy Pop and EDM, appreciating the diverse range of emotions and energies these genres offer.
+
+In addition to my passion for music, I am an avid fan of mystery and thriller TV shows and movies. I am captivated by the suspenseful plots and intricate storylines that keep me on the edge of my seat. Whether it's unraveling a complex mystery or experiencing the adrenaline rush of a thrilling sequence, these genres provide me with a sense of excitement and intellectual stimulation."
+Personal Projects ,"### FlutterFinance — Dart, Flutter, Firebase
+In the development of FlutterFinance, I created a comprehensive expense management application designed for both iOS and Android platforms using Flutter. This application enables users to effortlessly track their expenses through the integration of API calls that retrieve real-time transaction data. To enhance user experience, I incorporated data parsing and visualization functionalities, presenting users with insightful graphs and trends related to their spending habits. These visualizations help users gain a deeper understanding of their financial behaviors and make informed decisions.
+
+### TrafficNet YOLOv8 — Python, TensorFlow, Keras, YOLOv8
+For the TrafficNet project, I utilized the YOLOv8 model with an FPN architecture and pre-trained COCO dataset weights, applying transfer learning techniques with TensorFlow, KerasCV, and Ultralytics for object detection tasks. I optimized the model's efficiency by preprocessing dataset images to a resolution of 640x640 pixels and formatting the input data with class labels and bounding boxes. Through extensive experimentation with various learning rates and loss functions, I determined that the Adam optimizer combined with binary cross-entropy and CIoU loss provided optimal performance. This configuration significantly improved the model's accuracy in detecting and classifying objects in traffic environments.
+
+### BioNet Peptide Analyst — Python, Numpy, Scikit-learn
+In the BioNet Peptide Analyst project, I developed and fine-tuned a multilayer neural network model from scratch using Python, Numpy, and Scikit-learn. This model is specifically designed for classifying antibiofilm peptides, which are crucial in managing biofilm-related diseases. To enhance the model's accuracy, I experimented with various activation functions and regularization techniques. Additionally, I addressed data imbalance issues through strategic oversampling techniques, resulting in a 10% improvement in the model's generalization and overall accuracy for classifying antibiofilm peptides. This advancement is vital for the development of effective treatments against biofilm-associated infections."
+Contact Information,"
+
+Website: Portfolio
+Email: npatel2@scu.edu
+LinkedIn: linkedin.com/in/patel-nilkumar/
+GitHub: github.com/Ncoder23"
